@@ -1,7 +1,9 @@
 
 
 
-https://github.com/hilalkrglmz/movie-database/assets/140657703/b8d4c3bf-7286-412a-a640-98e8228b66a6
+https://github.com/hilalkrglmz/movie-database/assets/140657703/c912d56a-a8d9-498e-80c4-12c66e80dd1a
+
+
 
 
 <!DOCTYPE html>
